@@ -1,0 +1,25 @@
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+
+# RAG and Document Processing
+chromadb
+sentence-transformers
+pypdf
+
+# AI Integration
+google-genai
+python-dotenv
+
+# MCP
+fastmcp
+
+# Frontend
+streamlit
+
+# Testing
+pytest
+httpx

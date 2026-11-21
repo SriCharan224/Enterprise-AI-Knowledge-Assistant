@@ -1,0 +1,16 @@
+
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+.coverage
+.vscode/
+data/chroma/
+data/documents/*
+!data/documents/.gitkeep
+*.log
+.env.*
+!.env.example
+.DS_Store
+*.sqlite3
