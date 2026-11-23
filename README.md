@@ -208,7 +208,7 @@ The goal of this project is to build an intelligent enterprise knowledge assista
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Sri Charan**
 
 AI / Machine Learning Project
 
